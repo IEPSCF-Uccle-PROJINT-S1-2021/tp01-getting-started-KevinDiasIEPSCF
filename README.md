@@ -9,23 +9,18 @@
 
 ## Nom
 
-Skywalker
+Dias
 
 ## Prénom
 
-Luke
+Kevin
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
-
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+Je m'appelle Kevin DIas.
+J'aime bien programmer en java et jouer aux jeux vidéos.
 
 J'ai hâte d'apprendre à programmer en JavaScript.
+
